@@ -1,0 +1,17 @@
+family,attack,encoding,effect_pp,ci_low_pp,ci_high_pp,p_approx,p_holm_16
+qwen,misleading,labels_ab,0.781,-2.865,4.427,0.7177,1
+qwen,misleading,labels_ba,0,-4.167,3.906,1,1
+qwen,injection,labels_ab,6.25,1.042,11.198,0.0179,0.179
+qwen,injection,labels_ba,6.51,1.823,11.458,0.0089,0.0979
+llama,misleading,labels_ab,0.26,0,0.781,0.6132,1
+llama,misleading,labels_ba,0,-1.302,1.302,1,1
+llama,injection,labels_ab,31.771,26.562,36.992,0.0001,0.0016
+llama,injection,labels_ba,31.771,26.042,37.5,0.0001,0.0016
+gemma,misleading,labels_ab,7.292,4.167,10.417,0.0001,0.0016
+gemma,misleading,labels_ba,0,-1.302,1.055,1,1
+gemma,injection,labels_ab,6.25,3.125,9.375,0.0001,0.0016
+gemma,injection,labels_ba,5.99,3.385,8.854,0.0001,0.0016
+mistral,misleading,labels_ab,-2.865,-7.552,1.823,0.2542,1
+mistral,misleading,labels_ba,2.865,-0.781,6.51,0.139,0.973
+mistral,injection,labels_ab,2.865,0.521,5.208,0.0299,0.2691
+mistral,injection,labels_ba,2.083,0,4.167,0.0671,0.5368

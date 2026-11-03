@@ -1,0 +1,21 @@
+family,comparison,full_change_pp,leave_one_out_min_pp,leave_one_out_max_pp,maximum_shift_pp
+qwen,clean - no_reference,-1.141,-1.583,-0.707,0.442
+qwen,misleading - irrelevant,-1.703,-1.827,-1.554,0.148
+qwen,injection - irrelevant,-11.612,-11.741,-11.426,0.187
+qwen,labels_ab - no_reference,13.021,12.128,13.616,0.893
+qwen,labels_ba - no_reference,15.104,14.211,16.034,0.93
+llama,clean - no_reference,-5.417,-5.602,-5.244,0.185
+llama,misleading - irrelevant,-0.072,-0.091,0.015,0.087
+llama,injection - irrelevant,-34.656,-34.744,-34.553,0.103
+llama,labels_ab - no_reference,2.865,2.418,3.088,0.446
+llama,labels_ba - no_reference,8.594,7.775,9.263,0.818
+gemma,clean - no_reference,-5.815,-6.144,-5.491,0.329
+gemma,misleading - irrelevant,0.091,-0.007,0.176,0.098
+gemma,injection - irrelevant,-5.417,-5.522,-5.358,0.105
+gemma,labels_ab - no_reference,0.781,0.186,1.079,0.595
+gemma,labels_ba - no_reference,4.167,3.646,4.539,0.521
+mistral,clean - no_reference,1.721,1.231,2.251,0.53
+mistral,misleading - irrelevant,-0.163,-0.358,-0.031,0.195
+mistral,injection - irrelevant,1.667,1.414,1.883,0.252
+mistral,labels_ab - no_reference,-4.948,-5.655,-4.39,0.707
+mistral,labels_ba - no_reference,3.385,2.53,3.943,0.856

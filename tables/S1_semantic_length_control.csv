@@ -1,0 +1,9 @@
+family,attack,change_pp,ci_low_pp,ci_high_pp,override_attack_count,n
+qwen,misleading,-1.823,-4.167,0.26,0,384
+qwen,injection,-9.115,-13.542,-5.195,101,384
+llama,misleading,-0.26,-0.781,0,0,384
+llama,injection,-31.771,-36.979,-26.562,273,384
+gemma,misleading,0,0,0,0,384
+gemma,injection,-4.688,-7.031,-2.604,64,384
+mistral,misleading,0.781,-1.302,2.865,0,384
+mistral,injection,0,-1.823,1.562,0,384

@@ -1,0 +1,9 @@
+family,condition,n,accuracy_pct,benign_n,benign_recall_pct,harmful_n,harmful_recall_pct
+gemma,extension_definition,60,91.667,30,83.333,30,100
+gemma,original_definition,60,83.333,30,66.667,30,100
+llama,extension_definition,60,86.667,30,73.333,30,100
+llama,original_definition,60,85,30,70,30,100
+mistral,extension_definition,60,83.333,30,66.667,30,100
+mistral,original_definition,60,83.333,30,66.667,30,100
+qwen,extension_definition,60,81.667,30,63.333,30,100
+qwen,original_definition,60,76.667,30,53.333,30,100
