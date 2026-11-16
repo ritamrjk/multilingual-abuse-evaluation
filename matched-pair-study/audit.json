@@ -1,0 +1,21 @@
+{
+  "responses": 95040,
+  "checkpoints": 11,
+  "scenario_pairs": 36,
+  "token_matches": 38016,
+  "input_sha256": {
+    "original": "1e1d37294f432df89888fef71d74425778386efa32fe154ff78131f7fd8abe20",
+    "larger": "a1ffaa6e8187667412ca70e546a2f5f84456eb6647475a6a7f4df63f6ed518d4",
+    "qwen14": "9b636ebd98bfbd1373b6202ad3ad8236aafae96d32eb62352431e10891b3dcc7",
+    "gemma9": "1f17648ba813befa6f19e94be1fb7c2131e8bc4e2ea542c7f67309287e5b2b03"
+  },
+  "bootstrap_draws": 9999,
+  "sign_flip_draws": 99999,
+  "seed": 7119,
+  "holm_comparisons": 14,
+  "analysis_versions": {
+    "numpy": "1.24.4",
+    "pandas": "2.2.2",
+    "matplotlib": "3.8.0"
+  }
+}
